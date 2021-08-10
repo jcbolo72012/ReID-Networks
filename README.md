@@ -10,7 +10,7 @@
 |**Multiple Granularity Network (MGN)**|<a href="https://arxiv.org/abs/1804.01438v1" target="_blank"> <img src="arxiv.jpg" width="25" height="25"> </a>|<a href="https://github.com/seathiefwang/MGN-pytorch" target="_blank"> <img src="GitHub-Mark-32px.png" width="25" height="25"> </a>|
 |**Flip ReID**|<a href="https://arxiv.org/abs/2105.05639" target="_blank"> <img src="arxiv.jpg" width="25" height="25">|<a href="https://github.com/nixingyang/FlipReID" target="_blank"> <img src="GitHub-Mark-32px.png" width="25" height="25">|
 |**Viewpoint-Aware Loss**|<a href="https://arxiv.org/pdf/1912.01300.pdf" target="_blank"> <img src="arxiv.jpg" width="25" height="25"> </a>||
-
+|**Bag of Tricks**|<a href=" http://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf" target="_blank"> <img src="arxiv.jpg" width="25" height="25"> </a>|<a href="https://github.com/michuanhaohao/reid-strong-baseline" target="_blank"> <img src="GitHub-Mark-32px.png" width="25" height="25"> </a>|
 
 
 
